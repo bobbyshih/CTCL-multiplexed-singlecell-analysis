@@ -4,7 +4,7 @@ Multiplexed (TCR, Cell Surface Protein, Gene expression) single-cell analysis of
 
 To view the R Markdown file in HTML (on your web browser), please use the following link (this may take up to a minute to load):
 
-https://htmlpreview.github.io/?https://github.com/bobbyshih/CTCL-multiplexed-singlecell-analysis/blob/main/CTCL_ImmuneProfiling.html
+https://bobbyshih.net/CTCL_ImmuneProfiling.html
 
 And please note that many of the bioinformatics analysis I have performed are not public, but I would be happy to speak privately about my work and experience! Please use the contact link below to get in touch!
 
